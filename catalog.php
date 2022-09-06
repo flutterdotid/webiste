@@ -1,2 +1,1 @@
-haloooo
-ini catalog
+catalog
